@@ -18,6 +18,14 @@ h1 {
     color:black;
 }
 
+.paragrafo-1 {
+    color:black;
+}
+
+.paragrafo-2 {
+    color:aqua
+}
+
 p {
     color:blueviolet;
 }
@@ -32,6 +40,12 @@ ul {
 
 li {
     color:blue;
+}
+
+.imagem-1 {
+    width: 40%;
+    align-items: center;
+    margin-left: 699px;
 }
 
 footer {
