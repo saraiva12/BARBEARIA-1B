@@ -3,6 +3,12 @@ header {
     color: cyan;
 }
 
+.imagem-cabecalho {
+    width: 40%;
+    align-items: center;
+    margin-left: 699px;
+}
+
 body {
     background-color:aquamarine;
     color:red;
